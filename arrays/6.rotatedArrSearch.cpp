@@ -30,7 +30,7 @@ int main(){
 
     vector<int> nums = {4,5,6,7,0,1,2};
     int target = 0;
-    cout << SearchInRotatedArr(nums, target);
+    cout << SearchInRotatedArr(nums, target); //4
 
     return 0;
 }
